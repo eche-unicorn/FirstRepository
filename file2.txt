@@ -2,3 +2,4 @@ Ciao!
 Halo
 line from user2
 new line from user2
+critical bug fixed
