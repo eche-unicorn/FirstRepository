@@ -3,3 +3,4 @@ Line from user2
 line from user1
 just a fucking change
 456
+some new feature
