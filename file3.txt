@@ -4,3 +4,4 @@ blaaah
 blah blah indeed
 I did it!
 line from user2
+lesson about rebase user2
