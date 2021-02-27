@@ -6,3 +6,4 @@ critical bug fixed
 lesson about rebase
 new lesson
 line from user2
+rebase lesson
