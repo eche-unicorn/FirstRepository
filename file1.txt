@@ -3,8 +3,4 @@ hellooo
 Good evening (from branch master)
 some new feature
 blahblahblah
-wind 10 fgs
-sooo
-line from user2
-forgodssake
-pleeeease
+
